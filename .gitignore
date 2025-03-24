@@ -16,3 +16,6 @@
 /freegames.egg-info/
 
 .DS_Store
+*.log
+node_modules/
+*.env
